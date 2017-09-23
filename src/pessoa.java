@@ -1,19 +1,20 @@
-import java.util.Date;
-
 public class pessoa {
 	private String nome;
-	private Date dataNasc;
-	
+	private String dataNasc;
+
 	public String getNome() {
 		return nome;
 	}
+
 	public void setNome(String nome) {
 		this.nome = nome;
 	}
-	public Date getDataNasc() {
+
+	public String getDataNasc() {
 		return dataNasc;
 	}
-	public void setDataNasc(Date dataNasc) {
+
+	public void setDataNasc(String dataNasc) {
 		this.dataNasc = dataNasc;
-	}	
+	}
 }

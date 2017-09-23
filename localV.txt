@@ -1,0 +1,2 @@
+aqui;rua 1;4.0;legal
+lá;viela;8.0;medio
